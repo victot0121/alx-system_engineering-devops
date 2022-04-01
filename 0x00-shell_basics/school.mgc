@@ -1,2 +1,3 @@
 #!/bin/bash
-rm school.mgc
+"touch 0 string SCHOOL data"
+"!:mine school"
