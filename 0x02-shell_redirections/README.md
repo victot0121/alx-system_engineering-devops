@@ -1,1 +1,1 @@
-hello worild
+describing what each script is doing
